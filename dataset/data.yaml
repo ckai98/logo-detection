@@ -1,6 +1,7 @@
-train: ./train/images
-val: ./valid/images
-test: ./test/images
+path:  /mnt/c/dev/python/yolo26/logo-detection/dataset
+train: train/images
+val: valid/images
+test: test/images
 
 nc: 5
 names: ['bureau_veritas', 'eurofins', 'intertek', 'tuv_rheinland', 'ul']
