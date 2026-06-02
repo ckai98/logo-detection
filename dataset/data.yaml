@@ -1,0 +1,13 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 5
+names: ['bureau_veritas', 'eurofins', 'intertek', 'tuv_rheinland', 'ul']
+
+roboflow:
+  workspace: kais-workspace-lgsoo
+  project: kais-workspace-lgsoo
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/kais-workspace-lgsoo/kais-workspace-lgsoo/dataset
