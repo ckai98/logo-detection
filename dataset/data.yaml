@@ -3,8 +3,8 @@ train: train/images
 val: valid/images
 test: test/images
 
-nc: 5
-names: ['bureau_veritas', 'eurofins', 'intertek', 'tuv_rheinland', 'ul']
+nc: 6
+names: ['bureau_veritas', 'eurofins', 'intertek', 'tuv_rheinland', 'ul', 'sgs']
 
 roboflow:
   workspace: kais-workspace-lgsoo
