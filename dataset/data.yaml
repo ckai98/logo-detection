@@ -1,4 +1,4 @@
-path:  /mnt/c/dev/python/yolo26/logo-detection/dataset
+path:  /content/logo-detection/dataset
 train: train/images
 val: valid/images
 test: test/images

@@ -107,4 +107,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: /mnt/c/dev/python/yolo26/logo-detection/runs/detect/runs/logo_detection
+save_dir: /content/logo-detection/runs/detect/runs/logo_detection
