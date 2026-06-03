@@ -4,7 +4,7 @@ val: valid/images
 test: test/images
 
 nc: 6
-names: ['bureau_veritas', 'eurofins', 'intertek', 'tuv_rheinland', 'ul', 'sgs']
+names: ['bureau_veritas', 'eurofins', 'intertek', 'sgs', 'tuv_rheinland', 'ul']
 
 roboflow:
   workspace: kais-workspace-lgsoo
